@@ -4,3 +4,4 @@ image_classification*
 preprocess*
 __pycache__/
 checkpoint
+.ipynb_checkpoints/
